@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.rules": "makefile",
+        "ssh_config": "ssh_config",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
